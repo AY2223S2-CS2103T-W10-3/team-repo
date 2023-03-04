@@ -260,7 +260,6 @@ _{Explain here how the data archiving feature will be implemented}_
 **Value proposition**: Contains dedicated fields in a contact card that manages military-specific information
 (e.g., rank, company, unit, etc.)
 
-
 ### User stories
 
 Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unlikely to have) - `*`
